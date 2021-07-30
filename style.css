@@ -1,0 +1,22 @@
+.btn-color{
+    background: #e76f51;
+    color: beige;
+    width: 165px;
+    height: 44px;
+    border-radius: 5px;
+}
+.bg-honda{
+    background: #264653;
+}
+h1{
+    font-size: 48px;
+}
+.grayscale{
+    transition: .3s;
+    filter: grayscale(100);
+}
+.bg-info{
+    margin-top: 20px;
+    padding: 20px;
+
+}
